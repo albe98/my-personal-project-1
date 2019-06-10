@@ -58,7 +58,7 @@ a:hover {
 
 .header-home {
   text-align: center;
-  background: url('images/Beach 1.JPG') no-repeat top center ;
+  background: url('images/Beach1.JPG') no-repeat top center ;
   background-size: absolute;
   overflow: hidden;
   padding-top: 60px;
@@ -66,7 +66,7 @@ a:hover {
 
 .header-experience {
   text-align: center;
-  background: url('images/My work space 1.JPG') no-repeat top center ;
+  background: url('images/Myworkspace1.JPG') no-repeat top center ;
   background-size: absolute top;
   overflow: hidden;
   padding-top: 60px;
@@ -74,7 +74,7 @@ a:hover {
 
 .header-contact {
   text-align: center;
-  background: url('images/game stop.JPG') no-repeat top center ;
+  background: url('images/gamestop.JPG') no-repeat top center ;
   background-size: absolute top;
   overflow: hidden;
   padding-top: 60px;
